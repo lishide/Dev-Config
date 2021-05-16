@@ -64,7 +64,8 @@
                 "name": "Command Prompt"
             },
             {
-                "acrylicOpacity": 0.0,
+                "acrylicOpacity": 0.80000000000000004,
+                "colorScheme": "Campbell",
                 "commandline": "%ProgramFiles%/Git/bin/bash.exe -li",
                 "guid": "{d15b228a-05d7-50d1-8472-f60aaba86efc}",
                 "hidden": false,
