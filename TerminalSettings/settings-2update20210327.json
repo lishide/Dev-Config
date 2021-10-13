@@ -30,16 +30,15 @@
     ],
     "copyFormatting": "none",
     "copyOnSelect": false,
-    "defaultProfile": "{d15b228a-05d7-50d1-8472-f60aaba86efc}",
-    "launchMode": "default",
+    "defaultProfile": "{98bd73a3-1da9-4404-bacb-50868cbc9c13}",
     "profiles": 
     {
         "defaults": {},
         "list": 
         [
             {
-                "acrylicOpacity": 0.80000000000000004,
-                "colorScheme": "Dracula+",
+                "acrylicOpacity": 0.59999999999999998,
+                "colorScheme": "Campbell Powershell",
                 "commandline": "powershell.exe",
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
@@ -47,27 +46,26 @@
                 "useAcrylic": true
             },
             {
+                "colorScheme": "Campbell",
                 "commandline": "cmd.exe",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
-                "name": "Command Prompt"
-            },
-            {
-                "acrylicOpacity": 0.80000000000000004,
-                "colorScheme": "Campbell",
-                "commandline": "D:\\Soft\\Git\\bin\\bash.exe",
-                "guid": "{d15b228a-05d7-50d1-8472-f60aaba86efc}",
-                "hidden": false,
-                "icon": "D:\\Soft\\Git\\mingw64\\share\\git\\git-for-windows.ico",
-                "name": "Git Bash",
-                "startingDirectory": "%USERPROFILE%",
-                "useAcrylic": true
+                "name": "\u547d\u4ee4\u63d0\u793a\u7b26"
             },
             {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
                 "hidden": false,
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
+            },
+            {
+                "acrylicOpacity": 0.80000000000000004,
+                "commandline": "D:\\Soft\\Git\\bin\\bash.exe",
+                "guid": "{98bd73a3-1da9-4404-bacb-50868cbc9c13}",
+                "icon": "D:\\Soft\\Git\\mingw64\\share\\git\\git-for-windows.ico",
+                "name": "Git Bash",
+                "startingDirectory": "%USERPROFILE%",
+                "useAcrylic": true
             },
             {
                 "guid": "{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}",
@@ -124,29 +122,6 @@
             "selectionBackground": "#FFFFFF",
             "white": "#CCCCCC",
             "yellow": "#C19C00"
-        },
-        {
-            "background": "#212121",
-            "black": "#21222C",
-            "blue": "#82AAFF",
-            "brightBlack": "#545454",
-            "brightBlue": "#D6ACFF",
-            "brightCyan": "#A4FFFF",
-            "brightGreen": "#69FF94",
-            "brightPurple": "#FF92DF",
-            "brightRed": "#FF6E6E",
-            "brightWhite": "#F8F8F2",
-            "brightYellow": "#FFCB6B",
-            "cursorColor": "#ECEFF4",
-            "cyan": "#8BE9FD",
-            "foreground": "#F8F8F2",
-            "green": "#50FA7B",
-            "name": "Dracula+",
-            "purple": "#C792EA",
-            "red": "#FF5555",
-            "selectionBackground": "#F8F8F2",
-            "white": "#F8F8F2",
-            "yellow": "#FFCB6B"
         },
         {
             "background": "#282C34",
